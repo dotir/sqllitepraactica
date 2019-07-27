@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">sqllitepraactica</string>
+    <string name="crear_tabla">Crear Tabla</string>
+    <string name="eliminar_tabla">Eliminar Tabla</string>
+    <string name="consultar">Consultar</string>
+</resources>
